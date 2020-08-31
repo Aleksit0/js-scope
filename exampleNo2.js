@@ -1,3 +1,4 @@
+
 let city = 'Boston';
 
 function getCity() {
