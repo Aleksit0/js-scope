@@ -1,3 +1,4 @@
+// MAIN (FIRST) EXAMPLE
 // In Javascript there are 2 types of scopes:
 // GLOBAL and LOCAL scope
 
