@@ -1,4 +1,4 @@
-
+// SECOND EXAMPLE
 let city = 'Boston';
 
 function getCity() {
