@@ -1,4 +1,4 @@
-
+// THIRD EXAMPLE
 let car = 'Ferrari'; // If this variable would not exist
                     // it will bring an error.
 
